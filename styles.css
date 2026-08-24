@@ -1,13 +1,4 @@
-:root {
-  --gold: #d4af55;
-  --gold-light: #e4c575;
-  --dark: #1f1814;
-  --cream: #fffaf1;
-  --text: #2b211b;
-  --muted: #6f6257;
-  --content: 1180px;
-}
-
+:root { --gold: #d4af55; --gold-light: #e4c575; --dark: #1f1814; --cream: #fffaf1; --text: #2b211b; --muted: #6f6257; --content: 1180px; }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; overflow-x: hidden; }
 body { margin: 0; overflow-x: hidden; color: var(--text); background: var(--cream); font-family: Arial, sans-serif; line-height: 1.6; }
